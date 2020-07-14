@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74519" started-at="2020-06-28T10:26:19 IST" finished-at="2020-06-28T10:27:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74519" started-at="2020-06-28T10:26:19 IST" finished-at="2020-06-28T10:27:34 IST">
+      <class name="amazon.Test.AddressPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:amazon.Test.AddressPageTest@1786dec2]" name="setUp" is-config="true" duration-ms="14330" started-at="2020-06-28T10:26:19 IST" finished-at="2020-06-28T10:26:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddressCreationTest()[pri:2, instance:amazon.Test.AddressPageTest@1786dec2]" name="AddressCreationTest" duration-ms="55927" started-at="2020-06-28T10:26:33 IST" finished-at="2020-06-28T10:27:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddressCreationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:amazon.Test.AddressPageTest@1786dec2]" name="tearDown" is-config="true" duration-ms="4206" started-at="2020-06-28T10:27:29 IST" finished-at="2020-06-28T10:27:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- amazon.Test.AddressPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
